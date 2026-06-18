@@ -9,7 +9,7 @@ It can also move around the desktop, reacting to events.
 
 ### Downloads
 
-Downloads for pre-built binaries can be found under [Releases](https://github.com/nhimsel/project-csc3070/releases).
+Downloads for pre-built binaries can be found under [Releases](https://github.com/nhimsel/deskflop-buddy/releases).
 
 
 ### Configuration:
